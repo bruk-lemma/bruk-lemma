@@ -5,7 +5,7 @@
 - 🌱 Learning Rust.
 - 👯 I’m looking to collaborate on DevOps projects
 - 💬 Ask me about Node.js, Go, and React.
-- 📫 You can reach me at bruklemma2017@gmail.com.
+- 📫 You can reach me at bruklemma.contact@gmail.com.
 - ⚡ Fun fact: [Leo Messi is the goat].
 
 
